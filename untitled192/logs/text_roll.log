@@ -1,0 +1,32 @@
+2021-04-01 16:24:38 [main] INFO  org.zhyuliuk.validator.impl.ValidatorOfData- File a.txt check: existence and size.
+2021-04-01 16:24:38 [main] INFO  org.zhyuliuk.validator.impl.ValidatorOfData- List check.
+2021-04-01 16:24:38 [main] INFO  org.zhyuliuk.validator.impl.ValidatorOfData- List check.
+2021-04-01 16:26:53 [main] ERROR org.zhyuliuk.service.impl.SortArrayService- Entity can not be empty.
+2021-04-01 16:51:44 [main] INFO  org.zhyuliuk.validator.impl.ValidatorOfData- File  check: existence and size.
+2021-04-01 16:51:44 [main] INFO  org.zhyuliuk.validator.impl.ValidatorOfData- File correctfile check: existence and size.
+2021-04-01 16:51:44 [main] INFO  org.zhyuliuk.validator.impl.ValidatorOfData- FileName is null.
+2021-04-01 16:51:44 [main] INFO  org.zhyuliuk.validator.impl.ValidatorOfData- File a.txt check: existence and size.
+2021-04-01 16:52:01 [main] ERROR org.zhyuliuk.service.impl.SortArrayService- Entity can not be empty.
+2021-04-01 16:53:25 [main] ERROR org.zhyuliuk.service.impl.SortArrayService- Entity can not be empty.
+2021-04-01 16:53:25 [main] ERROR org.zhyuliuk.service.impl.SortArrayService- Entity can not be empty.
+2021-04-01 16:53:25 [main] ERROR org.zhyuliuk.service.impl.SortArrayService- Entity can not be empty.
+2021-04-01 16:53:25 [main] ERROR org.zhyuliuk.service.impl.SortArrayService- Entity can not be empty.
+2021-04-01 16:53:25 [main] ERROR org.zhyuliuk.service.impl.SortArrayService- Entity can not be empty.
+2021-04-01 16:53:25 [main] ERROR org.zhyuliuk.service.impl.SortArrayService- Entity can not be empty.
+2021-04-01 17:02:41 [main] INFO  org.zhyuliuk.service.impl.ReplacementArrayService- changed array :  NumberArray{array=[1, 2, 3, 4, 5, 0, 0, 0, 0, 0, 0]}
+2021-04-01 17:02:41 [main] ERROR org.zhyuliuk.service.impl.ReplacementArrayService- Entity can not be empty.
+2021-04-01 17:02:41 [main] ERROR org.zhyuliuk.service.impl.ReplacementArrayService- Entity can not be empty.
+2021-04-01 17:02:41 [main] ERROR org.zhyuliuk.service.impl.ReplacementArrayService- Entity can not be empty.
+2021-04-01 17:02:41 [main] ERROR org.zhyuliuk.service.impl.ReplacementArrayService- Entity can not be empty.
+2021-04-01 17:02:41 [main] INFO  org.zhyuliuk.service.impl.ReplacementArrayService- changed array :  NumberArray{array=[0, 0, 0, 0, 0, -1, -2, -3, -4, -5, 0]}
+2021-04-01 17:02:41 [main] ERROR org.zhyuliuk.service.impl.ReplacementArrayService- Entity can not be empty.
+2021-04-01 17:02:41 [main] ERROR org.zhyuliuk.service.impl.ReplacementArrayService- Entity can not be empty.
+2021-04-01 17:02:41 [main] ERROR org.zhyuliuk.service.impl.ReplacementArrayService- Entity can not be empty.
+2021-04-01 17:02:41 [main] ERROR org.zhyuliuk.service.impl.ReplacementArrayService- Entity can not be empty.
+2021-04-04 21:52:19 [main] INFO  zhyuliuk.array.service.impl.DefinitionArrayService- quantity of negative elements :  NumberArray{array=[1, 2, 3, 4, 5, -1, -2, -3, -4, -5, 0]},result : 5
+2021-04-04 21:52:19 [main] INFO  zhyuliuk.array.service.impl.DefinitionArrayService- quantity of positive elements :  NumberArray{array=[1, 2, 3, 4, 5, -1, -2, -3, -4, -5, 0]},result : 5
+2021-04-04 21:52:19 [main] INFO  zhyuliuk.array.service.impl.DefinitionArrayService- sum of elements :  NumberArray{array=[1, 2, 3, 4, 5, -1, -2, -3, -4, -5, 0]},result : 0
+2021-04-04 21:52:19 [main] INFO  zhyuliuk.array.service.impl.DefinitionArrayService- average value elements :  NumberArray{array=[1, 2, 3, 4, 5, -1, -2, -3, -4, -5, 0]},result : 0.0
+2021-04-04 21:52:19 [main] INFO  zhyuliuk.array.service.impl.DefinitionArrayService- sum of elements :  NumberArray{array=[1, 2, 3, 4, 5, -1, -2, -3, -4, -5, 0]},result : 0
+2021-04-04 21:52:19 [main] INFO  zhyuliuk.array.service.impl.DefinitionArrayService- average value elements :  NumberArray{array=[1, 2, 3, 4, 5, -1, -2, -3, -4, -5, 0]},result : 0.0
+2021-04-04 21:52:19 [main] INFO  zhyuliuk.array.service.impl.DefinitionArrayService- sum of elements :  NumberArray{array=[1, 2, 3, 4, 5, -1, -2, -3, -4, -5, 0]},result : 0

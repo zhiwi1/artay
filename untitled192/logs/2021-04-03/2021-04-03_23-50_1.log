@@ -1,0 +1,50 @@
+2021-03-29 13:12:03 [main] INFO  org.zhyuliuk.array.service.DefinitionArrayService- quantity of positive elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 4
+2021-03-29 13:12:03 [main] INFO  org.zhyuliuk.array.service.DefinitionArrayService- sum of elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 0
+2021-03-29 13:12:03 [main] INFO  org.zhyuliuk.array.service.DefinitionArrayService- average value elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 0.0
+2021-03-29 13:12:03 [main] INFO  org.zhyuliuk.array.service.SearchArrayService- max : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]}, result : 10 
+2021-03-29 13:12:03 [main] INFO  org.zhyuliuk.array.service.SearchArrayService- min : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]}, result : -10 
+2021-03-29 13:12:03 [main] INFO  org.zhyuliuk.array.service.ReplacementArrayService- changed array : Array{arr=[57, 57, 57, 1, 2, 3, 10, 57]}
+2021-03-29 13:12:03 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- false
+2021-03-29 13:12:03 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- true
+2021-03-29 13:12:03 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- true
+2021-03-29 13:12:03 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- false
+2021-03-29 13:12:03 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- false
+2021-03-29 13:12:03 [main] INFO  zhyuliuk.array.reader.impl.ReadArrayAction- Success in reading
+2021-03-29 13:12:03 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- false
+2021-03-29 13:12:03 [main] INFO  org.zhyuliuk.array.Main- false
+2021-03-29 13:12:03 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- false
+2021-03-29 13:12:03 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- true
+2021-03-29 13:12:03 [main] INFO  org.zhyuliuk.array.Main- false
+2021-03-29 13:12:03 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- true
+2021-03-29 13:12:03 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- true
+2021-03-29 13:12:03 [main] INFO  org.zhyuliuk.array.Main- false
+2021-03-29 13:12:03 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- true
+2021-03-29 13:12:03 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- false
+2021-03-29 13:12:03 [main] INFO  org.zhyuliuk.array.Main- false
+2021-03-29 13:12:03 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- false
+2021-03-29 13:12:03 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- false
+2021-03-29 13:12:03 [main] INFO  org.zhyuliuk.array.Main- false
+2021-03-29 13:12:03 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- false
+2021-03-29 13:17:23 [main] INFO  org.zhyuliuk.array.service.DefinitionArrayService- sum of elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 0
+2021-03-29 13:17:23 [main] INFO  org.zhyuliuk.array.service.DefinitionArrayService- quantity of negative elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 4
+2021-03-29 13:17:23 [main] INFO  org.zhyuliuk.array.service.DefinitionArrayService- quantity of positive elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 4
+2021-03-29 13:17:23 [main] INFO  org.zhyuliuk.array.service.DefinitionArrayService- sum of elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 0
+2021-03-29 13:17:23 [main] INFO  org.zhyuliuk.array.service.DefinitionArrayService- average value elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 0.0
+2021-03-29 13:17:23 [main] INFO  org.zhyuliuk.array.service.SearchArrayService- max : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]}, result : 10 
+2021-03-29 13:17:23 [main] INFO  org.zhyuliuk.array.service.SearchArrayService- min : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]}, result : -10 
+2021-03-29 13:17:23 [main] INFO  org.zhyuliuk.array.service.ReplacementArrayService- changed array : Array{arr=[57, 57, 57, 1, 2, 3, 10, 57]}
+2021-03-29 13:17:23 [main] INFO  zhyuliuk.array.reader.impl.ReadArrayAction- 1, 2, 3
+2021-03-29 13:17:23 [main] INFO  zhyuliuk.array.reader.impl.ReadArrayAction- 1,2,3
+2021-03-29 13:17:23 [main] INFO  zhyuliuk.array.reader.impl.ReadArrayAction- Success in reading
+2021-03-29 13:17:23 [main] INFO  org.zhyuliuk.array.Main- false
+2021-03-29 13:17:23 [main] INFO  org.zhyuliuk.array.Main- true
+2021-03-29 13:17:23 [main] DEBUG org.zhyuliuk.array.Main- 1, 2, 3
+2021-03-29 13:17:23 [main] INFO  org.zhyuliuk.array.Main- true
+2021-03-29 13:17:23 [main] DEBUG org.zhyuliuk.array.Main- 1,2,3
+2021-03-29 13:17:23 [main] INFO  org.zhyuliuk.array.Main- false
+2021-03-29 13:17:23 [main] INFO  org.zhyuliuk.array.Main- false
+2021-03-29 13:17:41 [main] INFO  zhyuliuk.array.reader.impl.ReadArrayAction- 1, 2, 3
+2021-03-29 13:17:41 [main] INFO  zhyuliuk.array.reader.impl.ReadArrayAction- 1,2,3
+2021-03-29 13:17:41 [main] INFO  zhyuliuk.array.reader.impl.ReadArrayAction- Success in reading
+2021-03-29 13:19:23 [main] INFO  zhyuliuk.array.reader.impl.ReadArrayAction- 1, 2, 3
+2021-03-29 13:19:23 [main] INFO  zhyuliuk.array.reader.impl.ReadArrayAction- Success in reading

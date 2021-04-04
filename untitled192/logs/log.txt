@@ -1,0 +1,238 @@
+2021-03-24 03:15:57 [main] ERROR Main- Hello World
+2021-03-24 23:01:19 [main] INFO  Main- Hello World
+2021-03-24 23:01:19 [main] INFO  Main- YEah im logger
+2021-03-24 23:07:50 [main] INFO  Main- Hello World
+2021-03-24 23:07:50 [main] INFO  Main- YEah im logger
+2021-03-24 23:07:50 [main] ERROR Main- error log
+2021-03-24 23:09:40 [main] INFO  Main- info
+2021-03-24 23:09:40 [main] INFO  Main- Hello World
+2021-03-24 23:09:40 [main] INFO  Main- YEah im logger
+2021-03-24 23:09:40 [main] ERROR Main- error log
+2021-03-25 02:01:29 [main] INFO  Main- info
+2021-03-25 02:01:29 [main] INFO  Main- Hello World
+2021-03-25 02:01:29 [main] INFO  Main- YEah im logger
+2021-03-25 02:01:29 [main] ERROR Main- error log
+2021-03-25 02:27:37 [main] INFO  Main- info
+2021-03-25 02:27:37 [main] INFO  Main- Hello World
+2021-03-25 02:27:37 [main] INFO  Main- YEah im logger
+2021-03-25 02:27:37 [main] ERROR Main- error log
+2021-03-25 02:31:04 [main] INFO  Main- info
+2021-03-25 02:31:04 [main] INFO  Main- Hello World
+2021-03-25 02:31:04 [main] INFO  Main- YEah im logger
+2021-03-25 02:31:04 [main] ERROR Main- error log
+2021-03-25 02:33:18 [main] INFO  Main- info
+2021-03-25 02:33:18 [main] INFO  Main- Hello World
+2021-03-25 02:33:18 [main] INFO  Main- YEah im logger
+2021-03-25 02:33:18 [main] ERROR Main- error log
+2021-03-25 02:33:37 [main] INFO  Main- info
+2021-03-25 02:33:37 [main] INFO  Main- Hello World
+2021-03-25 02:33:37 [main] INFO  Main- YEah im logger
+2021-03-25 02:33:37 [main] ERROR Main- error log
+2021-03-25 02:33:40 [main] INFO  Main- info
+2021-03-25 02:33:40 [main] INFO  Main- Hello World
+2021-03-25 02:33:40 [main] INFO  Main- YEah im logger
+2021-03-25 02:33:40 [main] ERROR Main- error log
+2021-03-25 02:33:43 [main] INFO  Main- info
+2021-03-25 02:33:43 [main] INFO  Main- Hello World
+2021-03-25 02:33:43 [main] INFO  Main- YEah im logger
+2021-03-25 02:33:43 [main] ERROR Main- error log
+2021-03-25 02:33:48 [main] INFO  Main- info
+2021-03-25 02:33:48 [main] INFO  Main- Hello World
+2021-03-25 02:33:48 [main] INFO  Main- YEah im logger
+2021-03-25 02:33:48 [main] ERROR Main- error log
+2021-03-25 02:33:53 [main] INFO  Main- info
+2021-03-25 02:33:53 [main] INFO  Main- Hello World
+2021-03-25 02:33:53 [main] INFO  Main- YEah im logger
+2021-03-25 02:33:53 [main] ERROR Main- error log
+2021-03-25 02:33:57 [main] INFO  Main- info
+2021-03-25 02:33:57 [main] INFO  Main- Hello World
+2021-03-25 02:33:57 [main] INFO  Main- YEah im logger
+2021-03-25 02:33:57 [main] ERROR Main- error log
+2021-03-25 02:34:01 [main] INFO  Main- info
+2021-03-25 02:34:01 [main] INFO  Main- Hello World
+2021-03-25 02:34:01 [main] INFO  Main- YEah im logger
+2021-03-25 02:34:01 [main] ERROR Main- error log
+2021-03-25 02:34:04 [main] INFO  Main- info
+2021-03-25 02:34:04 [main] INFO  Main- Hello World
+2021-03-25 02:34:04 [main] INFO  Main- YEah im logger
+2021-03-25 02:34:04 [main] ERROR Main- error log
+2021-03-25 02:34:22 [main] INFO  Main- info
+2021-03-25 02:34:22 [main] INFO  Main- Hello World
+2021-03-25 02:34:22 [main] INFO  Main- YEah im logger
+2021-03-25 02:34:22 [main] ERROR Main- error log
+2021-03-25 02:34:22 [main] INFO  Main- info
+2021-03-25 02:34:22 [main] INFO  Main- Hello World
+2021-03-25 02:34:22 [main] INFO  Main- YEah im logger
+2021-03-25 02:34:22 [main] ERROR Main- error log
+2021-03-25 02:34:22 [main] INFO  Main- info
+2021-03-25 02:34:22 [main] INFO  Main- Hello World
+2021-03-25 02:34:22 [main] INFO  Main- YEah im logger
+2021-03-25 02:34:22 [main] ERROR Main- error log
+2021-03-25 02:34:22 [main] INFO  Main- info
+2021-03-25 02:34:22 [main] INFO  Main- Hello World
+2021-03-25 02:34:22 [main] INFO  Main- YEah im logger
+2021-03-25 02:34:22 [main] ERROR Main- error log
+2021-03-25 02:34:22 [main] INFO  Main- info
+2021-03-25 02:34:22 [main] INFO  Main- Hello World
+2021-03-25 02:34:22 [main] INFO  Main- YEah im logger
+2021-03-25 02:34:22 [main] ERROR Main- error log
+2021-03-25 02:34:26 [main] INFO  Main- info
+2021-03-25 02:34:26 [main] INFO  Main- Hello World
+2021-03-25 02:34:26 [main] INFO  Main- YEah im logger
+2021-03-25 02:34:26 [main] ERROR Main- error log
+2021-03-25 02:34:26 [main] INFO  Main- info
+2021-03-25 02:34:26 [main] INFO  Main- Hello World
+2021-03-25 02:34:26 [main] INFO  Main- YEah im logger
+2021-03-25 02:34:26 [main] ERROR Main- error log
+2021-03-25 02:34:26 [main] INFO  Main- info
+2021-03-25 02:34:26 [main] INFO  Main- Hello World
+2021-03-25 02:34:26 [main] INFO  Main- YEah im logger
+2021-03-25 02:34:26 [main] ERROR Main- error log
+2021-03-25 02:34:26 [main] INFO  Main- info
+2021-03-25 02:34:26 [main] INFO  Main- Hello World
+2021-03-25 02:34:26 [main] INFO  Main- YEah im logger
+2021-03-25 02:34:26 [main] ERROR Main- error log
+2021-03-25 02:34:26 [main] INFO  Main- info
+2021-03-25 02:34:26 [main] INFO  Main- Hello World
+2021-03-25 02:34:26 [main] INFO  Main- YEah im logger
+2021-03-25 02:34:26 [main] ERROR Main- error log
+2021-03-25 02:34:29 [main] INFO  Main- info
+2021-03-25 02:34:29 [main] INFO  Main- Hello World
+2021-03-25 02:34:29 [main] INFO  Main- YEah im logger
+2021-03-25 02:34:29 [main] ERROR Main- error log
+2021-03-25 02:34:29 [main] INFO  Main- info
+2021-03-25 02:34:29 [main] INFO  Main- Hello World
+2021-03-25 02:34:29 [main] INFO  Main- YEah im logger
+2021-03-25 02:34:29 [main] ERROR Main- error log
+2021-03-25 02:34:29 [main] INFO  Main- info
+2021-03-25 02:34:29 [main] INFO  Main- Hello World
+2021-03-25 02:34:29 [main] INFO  Main- YEah im logger
+2021-03-25 02:34:29 [main] ERROR Main- error log
+2021-03-25 02:34:29 [main] INFO  Main- info
+2021-03-25 02:34:29 [main] INFO  Main- Hello World
+2021-03-25 02:34:29 [main] INFO  Main- YEah im logger
+2021-03-25 02:34:29 [main] ERROR Main- error log
+2021-03-25 02:34:29 [main] INFO  Main- info
+2021-03-25 02:34:29 [main] INFO  Main- Hello World
+2021-03-25 02:34:29 [main] INFO  Main- YEah im logger
+2021-03-25 02:34:29 [main] ERROR Main- error log
+2021-03-25 02:34:38 [main] INFO  Main- info
+2021-03-25 02:34:38 [main] INFO  Main- Hello World
+2021-03-25 02:34:38 [main] INFO  Main- YEah im logger
+2021-03-25 02:34:38 [main] ERROR Main- error log
+2021-03-25 02:34:38 [main] INFO  Main- info
+2021-03-25 02:34:38 [main] INFO  Main- Hello World
+2021-03-25 02:34:38 [main] INFO  Main- YEah im logger
+2021-03-25 02:34:38 [main] ERROR Main- error log
+2021-03-25 02:34:38 [main] INFO  Main- info
+2021-03-25 02:34:38 [main] INFO  Main- Hello World
+2021-03-25 02:34:38 [main] INFO  Main- YEah im logger
+2021-03-25 02:34:38 [main] ERROR Main- error log
+2021-03-25 02:34:38 [main] INFO  Main- info
+2021-03-25 02:34:38 [main] INFO  Main- Hello World
+2021-03-25 02:34:38 [main] INFO  Main- YEah im logger
+2021-03-25 02:34:38 [main] ERROR Main- error log
+2021-03-25 02:34:38 [main] INFO  Main- info
+2021-03-25 02:34:38 [main] INFO  Main- Hello World
+2021-03-25 02:34:38 [main] INFO  Main- YEah im logger
+2021-03-25 02:34:38 [main] ERROR Main- error log
+2021-03-25 02:34:42 [main] INFO  Main- info
+2021-03-25 02:34:42 [main] INFO  Main- Hello World
+2021-03-25 02:34:42 [main] INFO  Main- YEah im logger
+2021-03-25 02:34:42 [main] ERROR Main- error log
+2021-03-25 02:34:42 [main] INFO  Main- info
+2021-03-25 02:34:42 [main] INFO  Main- Hello World
+2021-03-25 02:34:42 [main] INFO  Main- YEah im logger
+2021-03-25 02:34:42 [main] ERROR Main- error log
+2021-03-25 02:34:42 [main] INFO  Main- info
+2021-03-25 02:34:42 [main] INFO  Main- Hello World
+2021-03-25 02:34:42 [main] INFO  Main- YEah im logger
+2021-03-25 02:34:42 [main] ERROR Main- error log
+2021-03-25 02:34:42 [main] INFO  Main- info
+2021-03-25 02:34:42 [main] INFO  Main- Hello World
+2021-03-25 02:34:42 [main] INFO  Main- YEah im logger
+2021-03-25 02:34:42 [main] ERROR Main- error log
+2021-03-25 02:34:42 [main] INFO  Main- info
+2021-03-25 02:34:42 [main] INFO  Main- Hello World
+2021-03-25 02:34:42 [main] INFO  Main- YEah im logger
+2021-03-25 02:34:42 [main] ERROR Main- error log
+2021-03-25 02:34:58 [main] INFO  Main- info
+2021-03-25 02:34:58 [main] INFO  Main- Hello World
+2021-03-25 02:34:58 [main] INFO  Main- YEah im logger
+2021-03-25 02:34:58 [main] ERROR Main- error log
+2021-03-25 02:34:58 [main] INFO  Main- info
+2021-03-25 02:34:58 [main] INFO  Main- Hello World
+2021-03-25 02:34:58 [main] INFO  Main- YEah im logger
+2021-03-25 02:34:58 [main] ERROR Main- error log
+2021-03-25 02:34:58 [main] INFO  Main- info
+2021-03-25 02:34:58 [main] INFO  Main- Hello World
+2021-03-25 02:34:58 [main] INFO  Main- YEah im logger
+2021-03-25 02:34:58 [main] ERROR Main- error log
+2021-03-25 02:34:58 [main] INFO  Main- info
+2021-03-25 02:34:58 [main] INFO  Main- Hello World
+2021-03-25 02:34:58 [main] INFO  Main- YEah im logger
+2021-03-25 02:34:58 [main] ERROR Main- error log
+2021-03-25 02:34:58 [main] INFO  Main- info
+2021-03-25 02:34:58 [main] INFO  Main- Hello World
+2021-03-25 02:34:58 [main] INFO  Main- YEah im logger
+2021-03-25 02:34:58 [main] ERROR Main- error log
+2021-03-25 02:35:06 [main] INFO  Main- info
+2021-03-25 02:35:06 [main] INFO  Main- Hello World
+2021-03-25 02:35:06 [main] INFO  Main- YEah im logger
+2021-03-25 02:35:06 [main] ERROR Main- error log
+2021-03-25 02:35:06 [main] INFO  Main- info
+2021-03-25 02:35:06 [main] INFO  Main- Hello World
+2021-03-25 02:35:06 [main] INFO  Main- YEah im logger
+2021-03-25 02:35:06 [main] ERROR Main- error log
+2021-03-25 02:35:06 [main] INFO  Main- info
+2021-03-25 02:35:06 [main] INFO  Main- Hello World
+2021-03-25 02:35:06 [main] INFO  Main- YEah im logger
+2021-03-25 02:35:06 [main] ERROR Main- error log
+2021-03-25 02:35:06 [main] INFO  Main- info
+2021-03-25 02:35:06 [main] INFO  Main- Hello World
+2021-03-25 02:35:06 [main] INFO  Main- YEah im logger
+2021-03-25 02:35:06 [main] ERROR Main- error log
+2021-03-25 02:35:06 [main] INFO  Main- info
+2021-03-25 02:35:06 [main] INFO  Main- Hello World
+2021-03-25 02:35:06 [main] INFO  Main- YEah im logger
+2021-03-25 02:35:06 [main] ERROR Main- error log
+2021-03-25 02:42:11 [main] INFO  Main- info
+2021-03-25 02:42:11 [main] INFO  Main- Hello World
+2021-03-25 02:42:11 [main] INFO  Main- YEah im logger
+2021-03-25 02:42:11 [main] ERROR Main- error log
+2021-03-25 02:42:11 [main] INFO  Main- info
+2021-03-25 02:42:11 [main] INFO  Main- Hello World
+2021-03-25 02:42:11 [main] INFO  Main- YEah im logger
+2021-03-25 02:42:11 [main] ERROR Main- error log
+2021-03-25 02:42:11 [main] INFO  Main- info
+2021-03-25 02:42:11 [main] INFO  Main- Hello World
+2021-03-25 02:42:11 [main] INFO  Main- YEah im logger
+2021-03-25 02:42:11 [main] ERROR Main- error log
+2021-03-25 02:42:11 [main] INFO  Main- info
+2021-03-25 02:42:11 [main] INFO  Main- Hello World
+2021-03-25 02:42:11 [main] INFO  Main- YEah im logger
+2021-03-25 02:42:11 [main] ERROR Main- error log
+2021-03-25 02:42:11 [main] INFO  Main- info
+2021-03-25 02:42:11 [main] INFO  Main- Hello World
+2021-03-25 02:42:11 [main] INFO  Main- YEah im logger
+2021-03-25 02:42:11 [main] ERROR Main- error log
+2021-03-25 02:43:06 [main] INFO  Main- info
+2021-03-25 02:43:06 [main] INFO  Main- Hello World
+2021-03-25 02:43:06 [main] INFO  Main- YEah im logger
+2021-03-25 02:43:06 [main] ERROR Main- error log
+2021-03-25 02:43:06 [main] INFO  Main- info
+2021-03-25 02:43:06 [main] INFO  Main- Hello World
+2021-03-25 02:43:06 [main] INFO  Main- YEah im logger
+2021-03-25 02:43:06 [main] ERROR Main- error log
+2021-03-25 02:43:06 [main] INFO  Main- info
+2021-03-25 02:43:06 [main] INFO  Main- Hello World
+2021-03-25 02:43:06 [main] INFO  Main- YEah im logger
+2021-03-25 02:43:06 [main] ERROR Main- error log
+2021-03-25 02:43:06 [main] INFO  Main- info
+2021-03-25 02:43:06 [main] INFO  Main- Hello World
+2021-03-25 02:43:06 [main] INFO  Main- YEah im logger
+2021-03-25 02:43:06 [main] ERROR Main- error log
+2021-03-25 02:43:06 [main] INFO  Main- info
+2021-03-25 02:43:06 [main] INFO  Main- Hello World
+2021-03-25 02:43:06 [main] INFO  Main- YEah im logger
+2021-03-25 02:43:06 [main] ERROR Main- error log

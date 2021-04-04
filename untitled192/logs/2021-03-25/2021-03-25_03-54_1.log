@@ -1,0 +1,60 @@
+2021-03-25 02:35:06 [main] INFO  Main- YEah im logger
+2021-03-25 02:35:06 [main] ERROR Main- error log
+2021-03-25 02:35:06 [main] INFO  Main- info
+2021-03-25 02:35:06 [main] INFO  Main- Hello World
+2021-03-25 02:35:06 [main] INFO  Main- YEah im logger
+2021-03-25 02:35:06 [main] ERROR Main- error log
+2021-03-25 02:42:11 [main] INFO  Main- info
+2021-03-25 02:42:11 [main] INFO  Main- Hello World
+2021-03-25 02:42:11 [main] INFO  Main- YEah im logger
+2021-03-25 02:42:11 [main] ERROR Main- error log
+2021-03-25 02:42:11 [main] INFO  Main- info
+2021-03-25 02:42:11 [main] INFO  Main- Hello World
+2021-03-25 02:42:11 [main] INFO  Main- YEah im logger
+2021-03-25 02:42:11 [main] ERROR Main- error log
+2021-03-25 02:42:11 [main] INFO  Main- info
+2021-03-25 02:42:11 [main] INFO  Main- Hello World
+2021-03-25 02:42:11 [main] INFO  Main- YEah im logger
+2021-03-25 02:42:11 [main] ERROR Main- error log
+2021-03-25 02:42:11 [main] INFO  Main- info
+2021-03-25 02:42:11 [main] INFO  Main- Hello World
+2021-03-25 02:42:11 [main] INFO  Main- YEah im logger
+2021-03-25 02:42:11 [main] ERROR Main- error log
+2021-03-25 02:42:11 [main] INFO  Main- info
+2021-03-25 02:42:11 [main] INFO  Main- Hello World
+2021-03-25 02:42:11 [main] INFO  Main- YEah im logger
+2021-03-25 02:42:11 [main] ERROR Main- error log
+2021-03-25 02:43:06 [main] INFO  Main- info
+2021-03-25 02:43:06 [main] INFO  Main- Hello World
+2021-03-25 02:43:06 [main] INFO  Main- YEah im logger
+2021-03-25 02:43:06 [main] ERROR Main- error log
+2021-03-25 02:43:06 [main] INFO  Main- info
+2021-03-25 02:43:06 [main] INFO  Main- Hello World
+2021-03-25 02:43:06 [main] INFO  Main- YEah im logger
+2021-03-25 02:43:06 [main] ERROR Main- error log
+2021-03-25 02:43:06 [main] INFO  Main- info
+2021-03-25 02:43:06 [main] INFO  Main- Hello World
+2021-03-25 02:43:06 [main] INFO  Main- YEah im logger
+2021-03-25 02:43:06 [main] ERROR Main- error log
+2021-03-25 02:43:06 [main] INFO  Main- info
+2021-03-25 02:43:06 [main] INFO  Main- Hello World
+2021-03-25 02:43:06 [main] INFO  Main- YEah im logger
+2021-03-25 02:43:06 [main] ERROR Main- error log
+2021-03-25 02:43:06 [main] INFO  Main- info
+2021-03-25 02:43:06 [main] INFO  Main- Hello World
+2021-03-25 02:43:06 [main] INFO  Main- YEah im logger
+2021-03-25 02:43:06 [main] ERROR Main- error log
+2021-03-25 03:30:10 [main] INFO  Main- Hello World
+2021-03-25 03:30:10 [main] INFO  Main- YEah im logger
+2021-03-25 03:36:56 [main] INFO  DefinitionArrayService- counter : 4
+2021-03-25 03:36:56 [main] INFO  SearchArrayService- max : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]}, result : 10
+2021-03-25 03:40:50 [main] INFO  DefinitionArrayService- quantity of positive elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 4
+2021-03-25 03:40:50 [main] INFO  SearchArrayService- max : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]}, result : 10
+2021-03-25 03:50:31 [main] INFO  DefinitionArrayService- sum of elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 0
+2021-03-25 03:50:31 [main] INFO  DefinitionArrayService- quantity of negative elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 4
+2021-03-25 03:50:31 [main] INFO  DefinitionArrayService- quantity of positive elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 4
+2021-03-25 03:50:31 [main] INFO  DefinitionArrayService- sum of elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 0
+2021-03-25 03:50:31 [main] INFO  DefinitionArrayService- average value elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 0.0
+2021-03-25 03:50:31 [main] INFO  SearchArrayService- max : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]}, result : 10
+2021-03-25 03:50:31 [main] INFO  SearchArrayService- min : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]}, result : -10
+2021-03-25 03:54:37 [main] INFO  DefinitionArrayService- sum of elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 0

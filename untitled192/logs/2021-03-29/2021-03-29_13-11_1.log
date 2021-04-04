@@ -1,0 +1,43 @@
+2021-03-29 13:06:46 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- false
+2021-03-29 13:07:39 [main] INFO  DefinitionArrayService- sum of elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 0
+2021-03-29 13:07:39 [main] INFO  DefinitionArrayService- quantity of negative elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 4
+2021-03-29 13:07:39 [main] INFO  DefinitionArrayService- quantity of positive elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 4
+2021-03-29 13:07:39 [main] INFO  DefinitionArrayService- sum of elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 0
+2021-03-29 13:07:39 [main] INFO  DefinitionArrayService- average value elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 0.0
+2021-03-29 13:07:39 [main] INFO  SearchArrayService- max : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]}, result : 10
+2021-03-29 13:07:39 [main] INFO  SearchArrayService- min : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]}, result : -10
+2021-03-29 13:07:39 [main] INFO  ReplacementArrayService- changed array : Array{arr=[57, 57, 57, 1, 2, 3, 10, 57]}
+2021-03-29 13:07:39 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- false
+2021-03-29 13:07:39 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- true
+2021-03-29 13:07:39 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- true
+2021-03-29 13:07:39 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- false
+2021-03-29 13:07:39 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- false
+2021-03-29 13:07:39 [main] INFO  zhyuliuk.array.reader.impl.ReadArrayAction- Success in reading
+2021-03-29 13:07:39 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- false
+2021-03-29 13:07:39 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- true
+2021-03-29 13:07:39 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- true
+2021-03-29 13:07:39 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- false
+2021-03-29 13:07:39 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- false
+2021-03-29 13:09:37 [main] INFO  DefinitionArrayService- sum of elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 0
+2021-03-29 13:09:37 [main] INFO  DefinitionArrayService- quantity of negative elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 4
+2021-03-29 13:09:37 [main] INFO  DefinitionArrayService- quantity of positive elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 4
+2021-03-29 13:09:37 [main] INFO  DefinitionArrayService- sum of elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 0
+2021-03-29 13:09:37 [main] INFO  DefinitionArrayService- average value elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 0.0
+2021-03-29 13:09:37 [main] INFO  SearchArrayService- max : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]}, result : 10
+2021-03-29 13:09:37 [main] INFO  SearchArrayService- min : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]}, result : -10
+2021-03-29 13:09:37 [main] INFO  ReplacementArrayService- changed array : Array{arr=[57, 57, 57, 1, 2, 3, 10, 57]}
+2021-03-29 13:09:37 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- false
+2021-03-29 13:09:37 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- true
+2021-03-29 13:09:37 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- true
+2021-03-29 13:09:37 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- false
+2021-03-29 13:09:37 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- false
+2021-03-29 13:09:37 [main] INFO  zhyuliuk.array.reader.impl.ReadArrayAction- Success in reading
+2021-03-29 13:09:37 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- false
+2021-03-29 13:09:37 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- true
+2021-03-29 13:09:37 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- true
+2021-03-29 13:09:37 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- false
+2021-03-29 13:09:37 [main] DEBUG zhyuliuk.array.validator.impl.ValidatorForReading- false
+2021-03-29 13:11:17 [main] INFO  DefinitionArrayService- sum of elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 0
+2021-03-29 13:11:17 [main] INFO  DefinitionArrayService- quantity of negative elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 4
+2021-03-29 13:11:17 [main] INFO  DefinitionArrayService- quantity of positive elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 4
+2021-03-29 13:11:17 [main] INFO  DefinitionArrayService- sum of elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 0
